@@ -28,4 +28,16 @@ Link: https://9000-firebase-studio-1747234273305.cluster-htdgsbmflbdmov5xrjithce
 
 ---
 
+## Official Icon
+
+![AeroWatch - Icon](https://github.com/user-attachments/assets/6c6380aa-0017-4b8a-9d3b-063c9eb75b5f)
+
+---
+
+## Official Logo
+
+![AeroWatch - Logo](https://github.com/user-attachments/assets/2e36228f-0738-488a-b935-bbf08c45084d)
+
+---
+
 WORK IN PROGRESS !!!
