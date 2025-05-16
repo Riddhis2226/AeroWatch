@@ -1,6 +1,6 @@
 # AeroWatch
 
-An AI-featured application for conducting the online monitoring of unauthorized constructions across the city, using drones.
+AI-Powered Smart City Surveillance Software for Automated Infrastructure Compliance & Unauthorized Construction Detection
 
 ---
 
